@@ -1,10 +1,11 @@
 {
-  "auctionHouse": "Please enter your Auction House Address",
-  "collections": ["Please enter your Collection ID"],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "collections": [
+    "6NyYdxDPUNuuhnGwdejYNquj1XEin1nqAdCEbxLadyCp"
+  ],
+  "network": "solana/mainnet-beta",
+  "xApiKey": "mw_HvFC3xjFvwfDdcFfGKjJNwaqR2yKP3fywlP",
+  "serviceFee": 8,
+  "currencyOption": "SOL",
+  "name": "ArmourX",
+  "logo": "https://collections.mirrorworld.fun/1678304173012-ArmourX.png"
 }
